@@ -1,11 +1,4 @@
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  ...
-</head>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
   <meta charset="UTF-8">
   <title>Barangay Login & Profile</title>
    <link rel="stylesheet" href="hack.css">
