@@ -41,7 +41,6 @@
       color: white;
     }
   </style>
-</head>
 <body>
 
 <!-- Welcome Section -->
@@ -298,4 +297,3 @@
 </script>
 
 </body>
-</html>
